@@ -1,3 +1,1 @@
-<div align="center">
-  <img src="buster.gif" />
-</div>
+https://framagit.org/nicolasdanet
